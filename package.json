@@ -1,0 +1,15 @@
+{
+  "name": "merry_owl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/Node/server.js"
+  },
+  "author": "Andrew Merriman",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
