@@ -5,7 +5,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node js/Node/server.js",
-    "deploy": "git add * && git commit -m $CM && git push && eb deploy && CM=\"\""
   },
   "author": "Andrew Merriman",
   "license": "ISC",
